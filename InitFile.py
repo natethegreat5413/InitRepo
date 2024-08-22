@@ -5,3 +5,5 @@ print("Yo this is going to be a great class")
 x = str(3)
 y = int(3)
 z = float(3)
+
+print("Printing", x)
